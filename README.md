@@ -1,8 +1,6 @@
 # K-means
 
-Função para o Matlab.
-
-É uma função para usar o k-means no matlab. 
+É uma função para usar o k-means no Matlab. 
 
 Coloquei em anexo um documento pdf "k-means_relatório.pdf" de 21 páginas ensinando a fazer um projetinho com o k-means para classicar a um audio entre voz e periodos de silêncio.
 
